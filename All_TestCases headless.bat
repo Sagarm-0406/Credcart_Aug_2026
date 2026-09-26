@@ -1,1 +1,1 @@
-pytest -v -s -n auto --html=HTMLReports/My_Report_headless.html --browser headless --alluredir=allure-results
+pytest -v -s -n auto --html=HTMLReports/My_Report_headless.html --browser headless
