@@ -4,8 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391568c2-7424-459f-9cb3-111a5cfd62e3" name="Changes" comment="">
+    <list default="true" id="391568c2-7424-459f-9cb3-111a5cfd62e3" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/03852198-61b4-4a9a-800f-b16f1e530b29-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/04b4b597-d005-45c7-b3a3-95fea417d420-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/100dd4c8-9382-46de-a593-b1c7f9ad98a0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/126adfb6-66d5-4fdf-bf92-25e945cb74e4-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/12a1dfa0-63d2-473d-814f-eafe8e5032aa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/19896cf4-4ec5-4304-b776-89a7b596e0ad-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/20894f5d-3405-47bb-b787-402a1279d44d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/22a422e9-5fad-4f11-8202-927524e6292f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/277e9bd4-cc29-4ec9-b72b-1c55bc1aacbd-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/27c31033-dae6-4c32-8539-03795ca259bd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/37405f6e-d291-4245-8eec-14c92c80e6a5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3a3213f5-326e-4a34-bb68-dce8c04f536f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4d51e46a-2d74-4b65-a8e7-311d59e0d193-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/53df8522-2207-443c-b7f7-30f9559aa02b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/57b0e24a-4b54-4d70-9752-ba5c427efe7a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5b06d718-6372-4e32-9217-f5952b6af81d-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5e1a37d7-0d6d-43d7-8012-71f69b213c2e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/62af3b62-7653-4965-be87-9e3285ab8cd8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/67854ff1-813b-4f7a-a59d-22bd01b73132-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/745c268e-3e36-4b37-a5fc-84b930b7ac4d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/76476cb6-cfe3-4b10-b9de-d1efaf7bde35-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7f9abb56-95d7-4c4d-a3ba-02845692e2d4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/83791722-b3ca-4e1c-8a8e-f27939816309-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8a99fc6e-8d7e-449d-8a43-1703f15b9304-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/910d7bd7-68d7-486e-9205-f16f4b3e7d06-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/92945ae9-1da5-4e4d-802c-43f8bab5ced0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9bb16e34-5d5d-485b-ab17-d0e2d81e3171-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b4729fbb-fb8b-48b9-a1f4-6ae39a53c658-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bfa8b2a7-9278-4230-a75b-7c22f795f24f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c0461466-9141-4c22-8494-d6b443c0eae8-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c6a804c6-9c6c-441d-950a-3c665ed95013-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c7947cab-588f-4105-a118-ba37e0e83999-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d58530c1-0738-451d-971b-4696a9755532-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d60e9cd1-4264-499b-b732-cdcdbca89382-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/dfa25f5d-2e47-48a0-a353-908bf52ad6f9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/eab74c90-b982-47b2-819e-f6743486db9b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ec3dce4d-880c-4b9c-93e4-89a7ea18b5fe-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ef7cd952-765e-4abf-b837-ad81982e90ff-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ef95c216-c531-43a1-b22a-754fb6b20082-container.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +100,51 @@
       <option name="presentableId" value="Default" />
       <updated>1790443875934</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1790449756483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790449756483</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1790449767246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790449767246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1790449895298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790449895298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sdv" />
+    <MESSAGE value="sdv" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
