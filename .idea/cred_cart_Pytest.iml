@@ -10,7 +10,5 @@
   <component name="PackageRequirementsSettings" />
   <component name="PyDocumentationSettings" />
   <component name="ReSTService" />
-  <component name="TestRunnerService">
-    <option name="PROJECT_TEST_RUNNER" value="py.test" />
-  </component>
+  <component name="TestRunnerService" />
 </module>
