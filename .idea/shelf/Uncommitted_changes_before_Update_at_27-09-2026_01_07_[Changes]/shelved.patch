@@ -1,0 +1,541 @@
+Index: allure-results/04b4b597-d005-45c7-b3a3-95fea417d420-container.json
+===================================================================
+diff --git a/allure-results/04b4b597-d005-45c7-b3a3-95fea417d420-container.json b/allure-results/04b4b597-d005-45c7-b3a3-95fea417d420-container.json
+deleted file mode 100644
+--- a/allure-results/04b4b597-d005-45c7-b3a3-95fea417d420-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "5c7baac1-bc11-499d-9f4a-bb80f6bc91fb", "children": ["2249b6f5-e2cc-45d2-9d5d-64efa66d5d91"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448688598}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448698382, "stop": 1790448700715}, {"name": "browser_setup::<lambda>", "start": 1790448700715}], "start": 1790448675910, "stop": 1790448700715}
+\ No newline at end of file
+Index: allure-results/126adfb6-66d5-4fdf-bf92-25e945cb74e4-attachment.txt
+===================================================================
+diff --git a/allure-results/126adfb6-66d5-4fdf-bf92-25e945cb74e4-attachment.txt b/allure-results/126adfb6-66d5-4fdf-bf92-25e945cb74e4-attachment.txt
+deleted file mode 100644
+--- a/allure-results/126adfb6-66d5-4fdf-bf92-25e945cb74e4-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,10 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:29 Testcase test_Credkart_login_params_004 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:31 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:40 Entering email: CredenceTest_50051@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:45 Entering password: Password@123
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:49 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:52 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:64 login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:65 Taking screenshot for login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:67 Testcase test_Credkart_login_params_004 is failed
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:71 Testcase test_Credkart_login_params_004 is completed
+\ No newline at end of file
+Index: allure-results/ec3dce4d-880c-4b9c-93e4-89a7ea18b5fe-result.json
+===================================================================
+diff --git a/allure-results/ec3dce4d-880c-4b9c-93e4-89a7ea18b5fe-result.json b/allure-results/ec3dce4d-880c-4b9c-93e4-89a7ea18b5fe-result.json
+deleted file mode 100644
+--- a/allure-results/ec3dce4d-880c-4b9c-93e4-89a7ea18b5fe-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify User login with DDT", "status": "passed", "description": "This test case is to validate credkart user login functionality with DDT", "attachments": [{"name": "log", "source": "67854ff1-813b-4f7a-a59d-22bd01b73132-attachment.txt", "type": "text/plain"}], "parameters": [{"name": "credkart_login_data", "value": "('CredenceTest_5005@credence.in', 'Password@1232', 'login_fail')"}], "start": 1790448688609, "stop": 1790448698378, "uuid": "2249b6f5-e2cc-45d2-9d5d-64efa66d5d91", "historyId": "d298389ea25e2500ebff8846146edd6c", "testCaseId": "6ab33a3375c4e7571e6446e0ab29a1d7", "fullName": "testCases.test_CredKart_User_Profile_002.Test_User_Login_002#test_Credkart_login_params_004", "labels": [{"name": "story", "value": "Story 2"}, {"name": "epic", "value": "Epic 1"}, {"name": "severity", "value": "blocker"}, {"name": "tag", "value": "user_profile"}, {"name": "tag", "value": "regression"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_002"}, {"name": "subSuite", "value": "Test_User_Login_002"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "18392-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_002"}], "links": [{"type": "link", "url": "https://automation.credence.in/login", "name": "https://automation.credence.in/login"}], "titlePath": ["testCases", "test_CredKart_User_Profile_002.py", "Test_User_Login_002"]}
+\ No newline at end of file
+Index: allure-results/37405f6e-d291-4245-8eec-14c92c80e6a5-container.json
+===================================================================
+diff --git a/allure-results/37405f6e-d291-4245-8eec-14c92c80e6a5-container.json b/allure-results/37405f6e-d291-4245-8eec-14c92c80e6a5-container.json
+deleted file mode 100644
+--- a/allure-results/37405f6e-d291-4245-8eec-14c92c80e6a5-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "ff72bd74-cf75-48dd-96cb-84c930156c09", "children": ["0ccbcc51-848c-41fd-8b8a-10708772da53"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448716762}], "start": 1790448675556, "stop": 1790448716762}
+\ No newline at end of file
+Index: allure-results/8a99fc6e-8d7e-449d-8a43-1703f15b9304-result.json
+===================================================================
+diff --git a/allure-results/8a99fc6e-8d7e-449d-8a43-1703f15b9304-result.json b/allure-results/8a99fc6e-8d7e-449d-8a43-1703f15b9304-result.json
+deleted file mode 100644
+--- a/allure-results/8a99fc6e-8d7e-449d-8a43-1703f15b9304-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify User login with DDT", "status": "passed", "description": "This test case is to validate credkart user login functionality with DDT", "attachments": [{"name": "log", "source": "126adfb6-66d5-4fdf-bf92-25e945cb74e4-attachment.txt", "type": "text/plain"}], "parameters": [{"name": "credkart_login_data", "value": "('CredenceTest_50051@credence.in', 'Password@123', 'login_fail')"}], "start": 1790448689448, "stop": 1790448698054, "uuid": "a176e12c-d56d-4822-ab3f-bc882f5ec0b3", "historyId": "a5dd8d6e62d69448280bb558d5f046e7", "testCaseId": "6ab33a3375c4e7571e6446e0ab29a1d7", "fullName": "testCases.test_CredKart_User_Profile_002.Test_User_Login_002#test_Credkart_login_params_004", "labels": [{"name": "epic", "value": "Epic 1"}, {"name": "story", "value": "Story 2"}, {"name": "severity", "value": "blocker"}, {"name": "tag", "value": "user_profile"}, {"name": "tag", "value": "regression"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_002"}, {"name": "subSuite", "value": "Test_User_Login_002"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "3924-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_002"}], "links": [{"type": "link", "url": "https://automation.credence.in/login", "name": "https://automation.credence.in/login"}], "titlePath": ["testCases", "test_CredKart_User_Profile_002.py", "Test_User_Login_002"]}
+\ No newline at end of file
+Index: allure-results/3a3213f5-326e-4a34-bb68-dce8c04f536f-container.json
+===================================================================
+diff --git a/allure-results/3a3213f5-326e-4a34-bb68-dce8c04f536f-container.json b/allure-results/3a3213f5-326e-4a34-bb68-dce8c04f536f-container.json
+deleted file mode 100644
+--- a/allure-results/3a3213f5-326e-4a34-bb68-dce8c04f536f-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "56c25077-ed84-4c5e-8a72-1370305199bb", "children": ["c130e048-dbd7-47a1-bd6b-f902cf4d41dc"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448688626}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448697206, "stop": 1790448699912}, {"name": "browser_setup::<lambda>", "start": 1790448699913}], "start": 1790448675910, "stop": 1790448699913}
+\ No newline at end of file
+Index: allure-results/7f9abb56-95d7-4c4d-a3ba-02845692e2d4-container.json
+===================================================================
+diff --git a/allure-results/7f9abb56-95d7-4c4d-a3ba-02845692e2d4-container.json b/allure-results/7f9abb56-95d7-4c4d-a3ba-02845692e2d4-container.json
+deleted file mode 100644
+--- a/allure-results/7f9abb56-95d7-4c4d-a3ba-02845692e2d4-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "aa540bdd-5667-47d1-ba80-14fb5fd77863", "children": ["2249b6f5-e2cc-45d2-9d5d-64efa66d5d91"], "befores": [{"name": "credkart_login_data", "status": "passed", "start": 1790448688598, "stop": 1790448688598}], "afters": [{"name": "credkart_login_data::<lambda>", "start": 1790448698380}], "start": 1790448688598, "stop": 1790448698380}
+\ No newline at end of file
+Index: allure-results/910d7bd7-68d7-486e-9205-f16f4b3e7d06-attachment.txt
+===================================================================
+diff --git a/allure-results/910d7bd7-68d7-486e-9205-f16f4b3e7d06-attachment.txt b/allure-results/910d7bd7-68d7-486e-9205-f16f4b3e7d06-attachment.txt
+deleted file mode 100644
+--- a/allure-results/910d7bd7-68d7-486e-9205-f16f4b3e7d06-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,12 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:29 Testcase test_Credkart_login_params_004 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:31 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:40 Entering email: CredenceTest_5005@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:45 Entering password: Password@123
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:49 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:52 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:54 login pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:55 Click on menu button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:57 Click on logout button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:59 Taking screenshot for login pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:61 Testcase test_Credkart_login_params_004 is passed
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:71 Testcase test_Credkart_login_params_004 is completed
+\ No newline at end of file
+Index: allure-results/67854ff1-813b-4f7a-a59d-22bd01b73132-attachment.txt
+===================================================================
+diff --git a/allure-results/67854ff1-813b-4f7a-a59d-22bd01b73132-attachment.txt b/allure-results/67854ff1-813b-4f7a-a59d-22bd01b73132-attachment.txt
+deleted file mode 100644
+--- a/allure-results/67854ff1-813b-4f7a-a59d-22bd01b73132-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,10 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:29 Testcase test_Credkart_login_params_004 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:31 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:40 Entering email: CredenceTest_5005@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:45 Entering password: Password@1232
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:49 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:52 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:64 login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:65 Taking screenshot for login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:67 Testcase test_Credkart_login_params_004 is failed
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:71 Testcase test_Credkart_login_params_004 is completed
+\ No newline at end of file
+Index: allure-results/d58530c1-0738-451d-971b-4696a9755532-container.json
+===================================================================
+diff --git a/allure-results/d58530c1-0738-451d-971b-4696a9755532-container.json b/allure-results/d58530c1-0738-451d-971b-4696a9755532-container.json
+deleted file mode 100644
+--- a/allure-results/d58530c1-0738-451d-971b-4696a9755532-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "e2aa5edf-6863-4952-8eda-02fddceddcf4", "children": ["64751a4e-2266-4914-9ae6-ad6662bf84c1"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448686887}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448695171, "stop": 1790448700072}, {"name": "browser_setup::<lambda>", "start": 1790448700072}], "start": 1790448675910, "stop": 1790448700072}
+\ No newline at end of file
+Index: allure-results/12a1dfa0-63d2-473d-814f-eafe8e5032aa-result.json
+===================================================================
+diff --git a/allure-results/12a1dfa0-63d2-473d-814f-eafe8e5032aa-result.json b/allure-results/12a1dfa0-63d2-473d-814f-eafe8e5032aa-result.json
+deleted file mode 100644
+--- a/allure-results/12a1dfa0-63d2-473d-814f-eafe8e5032aa-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify User Registration", "status": "passed", "description": "This test case is to validate credkart user registration functionality ", "attachments": [{"name": "User_registration_pass", "source": "22a422e9-5fad-4f11-8202-927524e6292f-attachment.png", "type": "image/png"}, {"name": "log", "source": "277e9bd4-cc29-4ec9-b72b-1c55bc1aacbd-attachment.txt", "type": "text/plain"}], "start": 1790448688628, "stop": 1790448697205, "uuid": "c130e048-dbd7-47a1-bd6b-f902cf4d41dc", "historyId": "8a8f51ccf48cb8d789daff9cfaf68d12", "testCaseId": "8a8f51ccf48cb8d789daff9cfaf68d12", "fullName": "testCases.test_CredKart_User_Profile_001.Test_User_Profile#test_Credkart_Registration_003", "labels": [{"name": "severity", "value": "normal"}, {"name": "epic", "value": "Epic 1"}, {"name": "story", "value": "Story 2"}, {"name": "tag", "value": "user_profile"}, {"name": "tag", "value": "regression"}, {"name": "tag", "value": "smoke"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_001"}, {"name": "subSuite", "value": "Test_User_Profile"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "16392-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_001"}], "links": [{"type": "link", "url": "https://automation.credence.in/register", "name": "https://automation.credence.in/register"}], "titlePath": ["testCases", "test_CredKart_User_Profile_001.py", "Test_User_Profile"]}
+\ No newline at end of file
+Index: allure-results/83791722-b3ca-4e1c-8a8e-f27939816309-container.json
+===================================================================
+diff --git a/allure-results/83791722-b3ca-4e1c-8a8e-f27939816309-container.json b/allure-results/83791722-b3ca-4e1c-8a8e-f27939816309-container.json
+deleted file mode 100644
+--- a/allure-results/83791722-b3ca-4e1c-8a8e-f27939816309-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "8d94506b-331e-4bf6-9cfb-cb9280b2769f", "children": ["d67f1e8e-a2c2-45ef-9d29-6458ec6a0601"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448700139}], "start": 1790448675556, "stop": 1790448700139}
+\ No newline at end of file
+Index: allure-results/27c31033-dae6-4c32-8539-03795ca259bd-container.json
+===================================================================
+diff --git a/allure-results/27c31033-dae6-4c32-8539-03795ca259bd-container.json b/allure-results/27c31033-dae6-4c32-8539-03795ca259bd-container.json
+deleted file mode 100644
+--- a/allure-results/27c31033-dae6-4c32-8539-03795ca259bd-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "11bdde1c-c23d-4f99-9dae-4dc9fd120da9", "children": ["133dedc1-318b-4684-b8ab-9670a5fdcbec"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448686604}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448695825, "stop": 1790448698765}, {"name": "browser_setup::<lambda>", "start": 1790448698765}], "start": 1790448675910, "stop": 1790448698765}
+\ No newline at end of file
+Index: allure-results/57b0e24a-4b54-4d70-9752-ba5c427efe7a-container.json
+===================================================================
+diff --git a/allure-results/57b0e24a-4b54-4d70-9752-ba5c427efe7a-container.json b/allure-results/57b0e24a-4b54-4d70-9752-ba5c427efe7a-container.json
+deleted file mode 100644
+--- a/allure-results/57b0e24a-4b54-4d70-9752-ba5c427efe7a-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "cf333290-f31b-4bea-ad55-6f9ececfd2e7", "children": ["133dedc1-318b-4684-b8ab-9670a5fdcbec"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448698767}], "start": 1790448675556, "stop": 1790448698768}
+\ No newline at end of file
+Index: allure-results/745c268e-3e36-4b37-a5fc-84b930b7ac4d-container.json
+===================================================================
+diff --git a/allure-results/745c268e-3e36-4b37-a5fc-84b930b7ac4d-container.json b/allure-results/745c268e-3e36-4b37-a5fc-84b930b7ac4d-container.json
+deleted file mode 100644
+--- a/allure-results/745c268e-3e36-4b37-a5fc-84b930b7ac4d-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "e16e1247-1533-4d46-81f2-6ee3beb1fe3e", "children": ["a176e12c-d56d-4822-ab3f-bc882f5ec0b3"], "befores": [{"name": "credkart_login_data", "status": "passed", "start": 1790448689444, "stop": 1790448689444}], "afters": [{"name": "credkart_login_data::<lambda>", "start": 1790448698056}], "start": 1790448689444, "stop": 1790448698056}
+\ No newline at end of file
+Index: allure-results/c7947cab-588f-4105-a118-ba37e0e83999-result.json
+===================================================================
+diff --git a/allure-results/c7947cab-588f-4105-a118-ba37e0e83999-result.json b/allure-results/c7947cab-588f-4105-a118-ba37e0e83999-result.json
+deleted file mode 100644
+--- a/allure-results/c7947cab-588f-4105-a118-ba37e0e83999-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify User login with DDT excel", "status": "passed", "description": "This test case is to validate credkart user login functionality with DDT excel", "attachments": [{"name": "log", "source": "20894f5d-3405-47bb-b787-402a1279d44d-attachment.txt", "type": "text/plain"}], "start": 1790448686794, "stop": 1790448714485, "uuid": "0ccbcc51-848c-41fd-8b8a-10708772da53", "historyId": "cd6bc3103140142af94fedbba3e3d297", "testCaseId": "cd6bc3103140142af94fedbba3e3d297", "fullName": "testCases.test_CredKart_User_Profile_002.Test_User_Login_002#test_Credkart_login_excel_005", "labels": [{"name": "severity", "value": "normal"}, {"name": "epic", "value": "Epic 1"}, {"name": "story", "value": "Story 2"}, {"name": "tag", "value": "user_profile"}, {"name": "tag", "value": "regression"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_002"}, {"name": "subSuite", "value": "Test_User_Login_002"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "10792-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_002"}], "links": [{"type": "link", "url": "https://automation.credence.in/login", "name": "https://automation.credence.in/login"}], "titlePath": ["testCases", "test_CredKart_User_Profile_002.py", "Test_User_Login_002"]}
+\ No newline at end of file
+Index: allure-results/20894f5d-3405-47bb-b787-402a1279d44d-attachment.txt
+===================================================================
+diff --git a/allure-results/20894f5d-3405-47bb-b787-402a1279d44d-attachment.txt b/allure-results/20894f5d-3405-47bb-b787-402a1279d44d-attachment.txt
+deleted file mode 100644
+--- a/allure-results/20894f5d-3405-47bb-b787-402a1279d44d-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,38 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:85 Testcase test_Credkart_login_excel_005 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:93 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:102 Entering email: CredenceTest_5005@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:107 Entering password: Password@123
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:111 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:114 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:116 login pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:117 Click on menu button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:119 Click on logout button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:121 Taking screenshot for login pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:130 Writing data into excel file
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:93 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:102 Entering email: CredenceTest_50051@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:107 Entering password: Password@123
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:111 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:114 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:125 login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:126 Taking screenshot for login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:130 Writing data into excel file
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:93 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:102 Entering email: CredenceTest_5005@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:107 Entering password: Password@1231
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:111 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:114 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:125 login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:126 Taking screenshot for login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:130 Writing data into excel file
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:93 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:102 Entering email: CredenceTest_5005@credence.in1
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:107 Entering password: Password@1231
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:111 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:114 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:125 login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:126 Taking screenshot for login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:130 Writing data into excel file
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:141 All Testcases are passed
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:142 Testcase test_Credkart_login_excel_005 is passed
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:150 Testcase test_Credkart_login_params_004 is completed
+\ No newline at end of file
+Index: allure-results/62af3b62-7653-4965-be87-9e3285ab8cd8-container.json
+===================================================================
+diff --git a/allure-results/62af3b62-7653-4965-be87-9e3285ab8cd8-container.json b/allure-results/62af3b62-7653-4965-be87-9e3285ab8cd8-container.json
+deleted file mode 100644
+--- a/allure-results/62af3b62-7653-4965-be87-9e3285ab8cd8-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "1f2d9555-55a8-4956-8847-39abd2fbc274", "children": ["c130e048-dbd7-47a1-bd6b-f902cf4d41dc"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448699914}], "start": 1790448675556, "stop": 1790448699914}
+\ No newline at end of file
+Index: allure-results/76476cb6-cfe3-4b10-b9de-d1efaf7bde35-container.json
+===================================================================
+diff --git a/allure-results/76476cb6-cfe3-4b10-b9de-d1efaf7bde35-container.json b/allure-results/76476cb6-cfe3-4b10-b9de-d1efaf7bde35-container.json
+deleted file mode 100644
+--- a/allure-results/76476cb6-cfe3-4b10-b9de-d1efaf7bde35-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "e882f55e-2a36-4706-b4dc-e8cff5e3847d", "children": ["64751a4e-2266-4914-9ae6-ad6662bf84c1"], "befores": [{"name": "credkart_login_data", "status": "passed", "start": 1790448686887, "stop": 1790448686887}], "afters": [{"name": "credkart_login_data::<lambda>", "start": 1790448695166}], "start": 1790448686887, "stop": 1790448695166}
+\ No newline at end of file
+Index: allure-results/ef7cd952-765e-4abf-b837-ad81982e90ff-container.json
+===================================================================
+diff --git a/allure-results/ef7cd952-765e-4abf-b837-ad81982e90ff-container.json b/allure-results/ef7cd952-765e-4abf-b837-ad81982e90ff-container.json
+deleted file mode 100644
+--- a/allure-results/ef7cd952-765e-4abf-b837-ad81982e90ff-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "be3e6316-28e0-4785-ab1e-2f48284b9050", "children": ["0ccbcc51-848c-41fd-8b8a-10708772da53"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448686792}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448714486, "stop": 1790448716758}, {"name": "browser_setup::<lambda>", "start": 1790448716758}], "start": 1790448675910, "stop": 1790448716758}
+\ No newline at end of file
+Index: allure-results/92945ae9-1da5-4e4d-802c-43f8bab5ced0-attachment.txt
+===================================================================
+diff --git a/allure-results/92945ae9-1da5-4e4d-802c-43f8bab5ced0-attachment.txt b/allure-results/92945ae9-1da5-4e4d-802c-43f8bab5ced0-attachment.txt
+deleted file mode 100644
+--- a/allure-results/92945ae9-1da5-4e4d-802c-43f8bab5ced0-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,10 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:29 Testcase test_Credkart_login_params_004 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:31 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:40 Entering email: CredenceTest_50051@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:45 Entering password: Password@1232
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:49 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:52 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:64 login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:65 Taking screenshot for login fail
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:67 Testcase test_Credkart_login_params_004 is failed
+-[32mINFO    [0m root:test_CredKart_User_Profile_002.py:71 Testcase test_Credkart_login_params_004 is completed
+\ No newline at end of file
+Index: allure-results/ef95c216-c531-43a1-b22a-754fb6b20082-container.json
+===================================================================
+diff --git a/allure-results/ef95c216-c531-43a1-b22a-754fb6b20082-container.json b/allure-results/ef95c216-c531-43a1-b22a-754fb6b20082-container.json
+deleted file mode 100644
+--- a/allure-results/ef95c216-c531-43a1-b22a-754fb6b20082-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "e3b0c88e-57b7-4b04-bcf9-4e00db088374", "children": ["a176e12c-d56d-4822-ab3f-bc882f5ec0b3"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448689443}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448698058, "stop": 1790448700380}, {"name": "browser_setup::<lambda>", "start": 1790448700380}], "start": 1790448675910, "stop": 1790448700380}
+\ No newline at end of file
+Index: allure-results/d60e9cd1-4264-499b-b732-cdcdbca89382-container.json
+===================================================================
+diff --git a/allure-results/d60e9cd1-4264-499b-b732-cdcdbca89382-container.json b/allure-results/d60e9cd1-4264-499b-b732-cdcdbca89382-container.json
+deleted file mode 100644
+--- a/allure-results/d60e9cd1-4264-499b-b732-cdcdbca89382-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "55bf9b87-f499-454b-b1d3-7e613e68e367", "children": ["2249b6f5-e2cc-45d2-9d5d-64efa66d5d91"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448700717}], "start": 1790448675556, "stop": 1790448700717}
+\ No newline at end of file
+Index: allure-results/03852198-61b4-4a9a-800f-b16f1e530b29-result.json
+===================================================================
+diff --git a/allure-results/03852198-61b4-4a9a-800f-b16f1e530b29-result.json b/allure-results/03852198-61b4-4a9a-800f-b16f1e530b29-result.json
+deleted file mode 100644
+--- a/allure-results/03852198-61b4-4a9a-800f-b16f1e530b29-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify Application Url", "status": "passed", "description": "This test case is to validate credkart title functionality ", "attachments": [{"name": "CredKart_Home_Page_pass", "source": "5b06d718-6372-4e32-9217-f5952b6af81d-attachment.png", "type": "image/png"}, {"name": "log", "source": "eab74c90-b982-47b2-819e-f6743486db9b-attachment.txt", "type": "text/plain"}], "start": 1790448686840, "stop": 1790448689916, "uuid": "d29b9e3b-9fd7-4279-8e7c-4077016caf95", "historyId": "a6391fca3dec07bcf841d54b81881b04", "testCaseId": "a6391fca3dec07bcf841d54b81881b04", "fullName": "testCases.test_CredKart_User_Profile_001.Test_User_Profile#test_Credkart_URL_001", "labels": [{"name": "severity", "value": "critical"}, {"name": "story", "value": "Story 1"}, {"name": "epic", "value": "Epic 1"}, {"name": "tag", "value": "regression"}, {"name": "tag", "value": "smoke"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_001"}, {"name": "subSuite", "value": "Test_User_Profile"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "7044-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_001"}], "links": [{"type": "link", "url": "https://automation.credence.in/login", "name": "https://automation.credence.in/login"}], "titlePath": ["testCases", "test_CredKart_User_Profile_001.py", "Test_User_Profile"]}
+\ No newline at end of file
+Index: allure-results/100dd4c8-9382-46de-a593-b1c7f9ad98a0-result.json
+===================================================================
+diff --git a/allure-results/100dd4c8-9382-46de-a593-b1c7f9ad98a0-result.json b/allure-results/100dd4c8-9382-46de-a593-b1c7f9ad98a0-result.json
+deleted file mode 100644
+--- a/allure-results/100dd4c8-9382-46de-a593-b1c7f9ad98a0-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify User login with DDT", "status": "passed", "description": "This test case is to validate credkart user login functionality with DDT", "attachments": [{"name": "log", "source": "910d7bd7-68d7-486e-9205-f16f4b3e7d06-attachment.txt", "type": "text/plain"}], "parameters": [{"name": "credkart_login_data", "value": "('CredenceTest_5005@credence.in', 'Password@123', 'login_pass')"}], "start": 1790448686891, "stop": 1790448695163, "uuid": "64751a4e-2266-4914-9ae6-ad6662bf84c1", "historyId": "a985a96000a6abfcdc7367e69b4a976d", "testCaseId": "6ab33a3375c4e7571e6446e0ab29a1d7", "fullName": "testCases.test_CredKart_User_Profile_002.Test_User_Login_002#test_Credkart_login_params_004", "labels": [{"name": "severity", "value": "blocker"}, {"name": "story", "value": "Story 2"}, {"name": "epic", "value": "Epic 1"}, {"name": "tag", "value": "user_profile"}, {"name": "tag", "value": "regression"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_002"}, {"name": "subSuite", "value": "Test_User_Login_002"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "13448-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_002"}], "links": [{"type": "link", "url": "https://automation.credence.in/login", "name": "https://automation.credence.in/login"}], "titlePath": ["testCases", "test_CredKart_User_Profile_002.py", "Test_User_Login_002"]}
+\ No newline at end of file
+Index: allure-results/eab74c90-b982-47b2-819e-f6743486db9b-attachment.txt
+===================================================================
+diff --git a/allure-results/eab74c90-b982-47b2-819e-f6743486db9b-attachment.txt b/allure-results/eab74c90-b982-47b2-819e-f6743486db9b-attachment.txt
+deleted file mode 100644
+--- a/allure-results/eab74c90-b982-47b2-819e-f6743486db9b-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,7 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:36 Testcase test_Credkart_URL_001 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:38 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:39 Checking page title
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:42 Page title is correct and landed on correct url -->CredKart
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:43 Taking screenshot
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:46 Testcase test_Credkart_URL_001 is pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:56 Testcase test_Credkart_URL_001 is completed
+\ No newline at end of file
+Index: allure-results/bfa8b2a7-9278-4230-a75b-7c22f795f24f-container.json
+===================================================================
+diff --git a/allure-results/bfa8b2a7-9278-4230-a75b-7c22f795f24f-container.json b/allure-results/bfa8b2a7-9278-4230-a75b-7c22f795f24f-container.json
+deleted file mode 100644
+--- a/allure-results/bfa8b2a7-9278-4230-a75b-7c22f795f24f-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "1085a377-9170-4911-b353-35190c3fad5a", "children": ["a176e12c-d56d-4822-ab3f-bc882f5ec0b3"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448700541}], "start": 1790448675556, "stop": 1790448700541}
+\ No newline at end of file
+Index: allure-results/277e9bd4-cc29-4ec9-b72b-1c55bc1aacbd-attachment.txt
+===================================================================
+diff --git a/allure-results/277e9bd4-cc29-4ec9-b72b-1c55bc1aacbd-attachment.txt b/allure-results/277e9bd4-cc29-4ec9-b72b-1c55bc1aacbd-attachment.txt
+deleted file mode 100644
+--- a/allure-results/277e9bd4-cc29-4ec9-b72b-1c55bc1aacbd-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,14 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:146 Testcase test_Credkart_Registration_003 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:148 Opening Browser and landing on https://automation.credence.in/register
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:160 Entering name: Jeffrey Love
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:166 Entering email: mooresarah@example.com
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:171 Entering password
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:176 Entering confirm password
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:181 Click on register button
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:198 Checking registration status
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:200 registration pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:201 Click on menu button
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:203 Click on logout button
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:205 Taking screenshot for registration pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:210 Testcase test_Credkart_Registration_003 is passed
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:217 Testcase test_Credkart_Registration_003 is completed
+\ No newline at end of file
+Index: allure-results/b4729fbb-fb8b-48b9-a1f4-6ae39a53c658-container.json
+===================================================================
+diff --git a/allure-results/b4729fbb-fb8b-48b9-a1f4-6ae39a53c658-container.json b/allure-results/b4729fbb-fb8b-48b9-a1f4-6ae39a53c658-container.json
+deleted file mode 100644
+--- a/allure-results/b4729fbb-fb8b-48b9-a1f4-6ae39a53c658-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "0825efea-5519-4a6b-8559-f65b4fced2c2", "children": ["d67f1e8e-a2c2-45ef-9d29-6458ec6a0601"], "befores": [{"name": "credkart_login_data", "status": "passed", "start": 1790448686527, "stop": 1790448686527}], "afters": [{"name": "credkart_login_data::<lambda>", "start": 1790448696839}], "start": 1790448686527, "stop": 1790448696839}
+\ No newline at end of file
+Index: allure-results/53df8522-2207-443c-b7f7-30f9559aa02b-container.json
+===================================================================
+diff --git a/allure-results/53df8522-2207-443c-b7f7-30f9559aa02b-container.json b/allure-results/53df8522-2207-443c-b7f7-30f9559aa02b-container.json
+deleted file mode 100644
+--- a/allure-results/53df8522-2207-443c-b7f7-30f9559aa02b-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "88a9887e-bf52-4859-ac24-ba9e4337cf7d", "children": ["d67f1e8e-a2c2-45ef-9d29-6458ec6a0601"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448686526}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448696842, "stop": 1790448700136}, {"name": "browser_setup::<lambda>", "start": 1790448700136}], "start": 1790448675910, "stop": 1790448700136}
+\ No newline at end of file
+Index: allure-results/9bb16e34-5d5d-485b-ab17-d0e2d81e3171-container.json
+===================================================================
+diff --git a/allure-results/9bb16e34-5d5d-485b-ab17-d0e2d81e3171-container.json b/allure-results/9bb16e34-5d5d-485b-ab17-d0e2d81e3171-container.json
+deleted file mode 100644
+--- a/allure-results/9bb16e34-5d5d-485b-ab17-d0e2d81e3171-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "05e2ccc4-f9bc-4410-8fda-ee546c061044", "children": ["d29b9e3b-9fd7-4279-8e7c-4077016caf95"], "befores": [{"name": "browser_setup", "status": "passed", "start": 1790448675910, "stop": 1790448686838}], "afters": [{"name": "browser_setup::1", "status": "passed", "start": 1790448689918, "stop": 1790448698859}, {"name": "browser_setup::<lambda>", "start": 1790448698859}], "start": 1790448675910, "stop": 1790448698859}
+\ No newline at end of file
+Index: allure-results/5e1a37d7-0d6d-43d7-8012-71f69b213c2e-result.json
+===================================================================
+diff --git a/allure-results/5e1a37d7-0d6d-43d7-8012-71f69b213c2e-result.json b/allure-results/5e1a37d7-0d6d-43d7-8012-71f69b213c2e-result.json
+deleted file mode 100644
+--- a/allure-results/5e1a37d7-0d6d-43d7-8012-71f69b213c2e-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify User Login", "status": "passed", "description": "This test case is to validate credkart user login functionality ", "attachments": [{"name": "User_Login_pass", "source": "c0461466-9141-4c22-8494-d6b443c0eae8-attachment.png", "type": "image/png"}, {"name": "log", "source": "4d51e46a-2d74-4b65-a8e7-311d59e0d193-attachment.txt", "type": "text/plain"}], "start": 1790448686605, "stop": 1790448695825, "uuid": "133dedc1-318b-4684-b8ab-9670a5fdcbec", "historyId": "b5c83616cb9ab1e7b4bcb05a5eea3a30", "testCaseId": "b5c83616cb9ab1e7b4bcb05a5eea3a30", "fullName": "testCases.test_CredKart_User_Profile_001.Test_User_Profile#test_Credkart_login_002", "labels": [{"name": "epic", "value": "Epic 1"}, {"name": "story", "value": "Story 2"}, {"name": "severity", "value": "critical"}, {"name": "tag", "value": "user_profile"}, {"name": "tag", "value": "regression"}, {"name": "tag", "value": "smoke"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_001"}, {"name": "subSuite", "value": "Test_User_Profile"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "19896-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_001"}], "links": [{"type": "link", "url": "https://automation.credence.in/login", "name": "https://automation.credence.in/login"}], "titlePath": ["testCases", "test_CredKart_User_Profile_001.py", "Test_User_Profile"]}
+\ No newline at end of file
+Index: allure-results/dfa25f5d-2e47-48a0-a353-908bf52ad6f9-result.json
+===================================================================
+diff --git a/allure-results/dfa25f5d-2e47-48a0-a353-908bf52ad6f9-result.json b/allure-results/dfa25f5d-2e47-48a0-a353-908bf52ad6f9-result.json
+deleted file mode 100644
+--- a/allure-results/dfa25f5d-2e47-48a0-a353-908bf52ad6f9-result.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"name": "Verify User login with DDT", "status": "passed", "description": "This test case is to validate credkart user login functionality with DDT", "attachments": [{"name": "log", "source": "92945ae9-1da5-4e4d-802c-43f8bab5ced0-attachment.txt", "type": "text/plain"}], "parameters": [{"name": "credkart_login_data", "value": "('CredenceTest_50051@credence.in', 'Password@1232', 'login_fail')"}], "start": 1790448686536, "stop": 1790448696837, "uuid": "d67f1e8e-a2c2-45ef-9d29-6458ec6a0601", "historyId": "607ba0d0b358cb6ac965ec76196e1e1c", "testCaseId": "6ab33a3375c4e7571e6446e0ab29a1d7", "fullName": "testCases.test_CredKart_User_Profile_002.Test_User_Login_002#test_Credkart_login_params_004", "labels": [{"name": "severity", "value": "blocker"}, {"name": "epic", "value": "Epic 1"}, {"name": "story", "value": "Story 2"}, {"name": "tag", "value": "user_profile"}, {"name": "tag", "value": "regression"}, {"name": "parentSuite", "value": "testCases"}, {"name": "suite", "value": "test_CredKart_User_Profile_002"}, {"name": "subSuite", "value": "Test_User_Login_002"}, {"name": "host", "value": "DESKTOP-HG4DEFQ"}, {"name": "thread", "value": "13604-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "testCases.test_CredKart_User_Profile_002"}], "links": [{"type": "link", "url": "https://automation.credence.in/login", "name": "https://automation.credence.in/login"}], "titlePath": ["testCases", "test_CredKart_User_Profile_002.py", "Test_User_Login_002"]}
+\ No newline at end of file
+Index: allure-results/4d51e46a-2d74-4b65-a8e7-311d59e0d193-attachment.txt
+===================================================================
+diff --git a/allure-results/4d51e46a-2d74-4b65-a8e7-311d59e0d193-attachment.txt b/allure-results/4d51e46a-2d74-4b65-a8e7-311d59e0d193-attachment.txt
+deleted file mode 100644
+--- a/allure-results/4d51e46a-2d74-4b65-a8e7-311d59e0d193-attachment.txt	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,12 +0,0 @@
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:71 Testcase test_Credkart_login_002 is started
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:73 Opening Browser and landing on https://automation.credence.in/login
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:80 Entering email: CredenceTest_5005@credence.in
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:87 Entering password: Password@123
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:93 Clicking on login button
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:113 Checking login status
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:115 login pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:116 Click on menu button
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:118 Click on logout button
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:120 Taking screenshot for login pass
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:125 Testcase test_Credkart_login_002 is passed
+-[32mINFO    [0m root:test_CredKart_User_Profile_001.py:132 Testcase test_Credkart_login_002 is completed
+\ No newline at end of file
+Index: allure-results/19896cf4-4ec5-4304-b776-89a7b596e0ad-container.json
+===================================================================
+diff --git a/allure-results/19896cf4-4ec5-4304-b776-89a7b596e0ad-container.json b/allure-results/19896cf4-4ec5-4304-b776-89a7b596e0ad-container.json
+deleted file mode 100644
+--- a/allure-results/19896cf4-4ec5-4304-b776-89a7b596e0ad-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "fabba8e0-eb52-4113-bee4-5c8a85ff54a6", "children": ["d29b9e3b-9fd7-4279-8e7c-4077016caf95"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448698861}], "start": 1790448675556, "stop": 1790448698861}
+\ No newline at end of file
+Index: allure-results/c6a804c6-9c6c-441d-950a-3c665ed95013-container.json
+===================================================================
+diff --git a/allure-results/c6a804c6-9c6c-441d-950a-3c665ed95013-container.json b/allure-results/c6a804c6-9c6c-441d-950a-3c665ed95013-container.json
+deleted file mode 100644
+--- a/allure-results/c6a804c6-9c6c-441d-950a-3c665ed95013-container.json	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ /dev/null	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
+@@ -1,1 +0,0 @@
+-{"uuid": "e662ee88-50a7-4484-88c1-451a718d3c0e", "children": ["64751a4e-2266-4914-9ae6-ad6662bf84c1"], "befores": [{"name": "_session_faker", "status": "passed", "start": 1790448675556, "stop": 1790448675910}], "afters": [{"name": "_session_faker::<lambda>", "start": 1790448700074}], "start": 1790448675556, "stop": 1790448700074}
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"391568c2-7424-459f-9cb3-111a5cfd62e3\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"Sagarm-0406\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/Sagarm-0406/Credcart_Aug_2026.git\",\r\n    \"accountId\": \"3446ff84-4175-438a-ab34-724363433ea8\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"customColor\": \"\",\r\n  \"associatedIndex\": 8\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"3JsJWlGUxp5asyXKMsJCxolegxx\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"openDirectoriesWithSingleClick\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"391568c2-7424-459f-9cb3-111a5cfd62e3\" name=\"Changes\" comment=\"\" />\r\n      <created>1790443875934</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1790443875934</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2b00b84370c6b57eb2bab8c058c7b9ce15397204)
++++ b/.idea/workspace.xml	(date 1790449990257)
+@@ -4,8 +4,47 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="391568c2-7424-459f-9cb3-111a5cfd62e3" name="Changes" comment="">
++    <list default="true" id="391568c2-7424-459f-9cb3-111a5cfd62e3" name="Changes" comment="first commit">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/03852198-61b4-4a9a-800f-b16f1e530b29-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/04b4b597-d005-45c7-b3a3-95fea417d420-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/100dd4c8-9382-46de-a593-b1c7f9ad98a0-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/126adfb6-66d5-4fdf-bf92-25e945cb74e4-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/12a1dfa0-63d2-473d-814f-eafe8e5032aa-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/19896cf4-4ec5-4304-b776-89a7b596e0ad-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/20894f5d-3405-47bb-b787-402a1279d44d-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/22a422e9-5fad-4f11-8202-927524e6292f-attachment.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/277e9bd4-cc29-4ec9-b72b-1c55bc1aacbd-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/27c31033-dae6-4c32-8539-03795ca259bd-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/37405f6e-d291-4245-8eec-14c92c80e6a5-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/3a3213f5-326e-4a34-bb68-dce8c04f536f-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/4d51e46a-2d74-4b65-a8e7-311d59e0d193-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/53df8522-2207-443c-b7f7-30f9559aa02b-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/57b0e24a-4b54-4d70-9752-ba5c427efe7a-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/5b06d718-6372-4e32-9217-f5952b6af81d-attachment.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/5e1a37d7-0d6d-43d7-8012-71f69b213c2e-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/62af3b62-7653-4965-be87-9e3285ab8cd8-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/67854ff1-813b-4f7a-a59d-22bd01b73132-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/745c268e-3e36-4b37-a5fc-84b930b7ac4d-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/76476cb6-cfe3-4b10-b9de-d1efaf7bde35-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/7f9abb56-95d7-4c4d-a3ba-02845692e2d4-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/83791722-b3ca-4e1c-8a8e-f27939816309-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/8a99fc6e-8d7e-449d-8a43-1703f15b9304-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/910d7bd7-68d7-486e-9205-f16f4b3e7d06-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/92945ae9-1da5-4e4d-802c-43f8bab5ced0-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/9bb16e34-5d5d-485b-ab17-d0e2d81e3171-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/b4729fbb-fb8b-48b9-a1f4-6ae39a53c658-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/bfa8b2a7-9278-4230-a75b-7c22f795f24f-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/c0461466-9141-4c22-8494-d6b443c0eae8-attachment.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/c6a804c6-9c6c-441d-950a-3c665ed95013-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/c7947cab-588f-4105-a118-ba37e0e83999-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/d58530c1-0738-451d-971b-4696a9755532-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/d60e9cd1-4264-499b-b732-cdcdbca89382-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/dfa25f5d-2e47-48a0-a353-908bf52ad6f9-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/eab74c90-b982-47b2-819e-f6743486db9b-attachment.txt" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/ec3dce4d-880c-4b9c-93e4-89a7ea18b5fe-result.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/ef7cd952-765e-4abf-b837-ad81982e90ff-container.json" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/allure-results/ef95c216-c531-43a1-b22a-754fb6b20082-container.json" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -61,9 +100,51 @@
+       <option name="presentableId" value="Default" />
+       <updated>1790443875934</updated>
+     </task>
++    <task id="LOCAL-00001" summary="first commit">
++      <option name="closed" value="true" />
++      <created>1790449756483</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1790449756483</updated>
++    </task>
++    <task id="LOCAL-00002" summary="first commit">
++      <option name="closed" value="true" />
++      <created>1790449767246</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1790449767246</updated>
++    </task>
++    <task id="LOCAL-00003" summary="first commit">
++      <option name="closed" value="true" />
++      <created>1790449895298</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1790449895298</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Sdv" />
++    <MESSAGE value="sdv" />
++    <MESSAGE value="first commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
++  </component>
+ </project>
+\ No newline at end of file
